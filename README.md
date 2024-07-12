@@ -41,6 +41,13 @@ https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badg
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/mutlutan/count.svg" />
+</p>
+
+
 <!--
 **mutlutan/mutlutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
