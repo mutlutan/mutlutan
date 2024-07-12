@@ -47,6 +47,10 @@ https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badg
    <img src="https://profile-counter.glitch.me/mutlutan/count.svg" />
 </p>
 
+## About me
+Welcome to my GitHub page ... <br>
+I'm working on .Net, c#, MssSsql and JavaScript technologies. <br>
+For detailed profile information on <a href= "[https://medium.com/@nrcntpkra](https://www.linkedin.com/in/mutlutan)">Linkedin</a>
 
 <!--
 **mutlutan/mutlutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
