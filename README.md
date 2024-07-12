@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-## Hi there 👋
-
 <!--
 https://ileriayo.github.io/markdown-badges/
 -->
