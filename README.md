@@ -8,7 +8,6 @@
 https://ileriayo.github.io/markdown-badges/
 -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
